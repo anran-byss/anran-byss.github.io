@@ -18,8 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 小翔和霜霜的秘密基地
-email: ejjoo7994@gmail.com
+title: secret base
 description: >- # this means to ignore newlines until "baseurl:"
   blog
 # baseurl: "/" # the subpath of your site, e.g. /blog
